@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Drupal development
 - 🌱 I’m currently learning to become better
-- 📫 How to reach me: [Twitter]: https://twitter.com/frederikvho/ 
+- 📫 How to reach me: [Twitter](https://twitter.com/frederikvho)
 - 😄 Pronouns: Him/he
