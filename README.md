@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Drupal development
-- 🌱 I’m currently learning to become better
+- 🌱 I’m currently learning to become better and trying to get more INTO opensource
 - 📫 How to reach me: 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
